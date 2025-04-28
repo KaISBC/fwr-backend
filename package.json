@@ -4,13 +4,12 @@
     "description": "Backend API for FWR Seguilbianconiglio",
     "main": "api/fwr.js",
     "scripts": {
-      "start": "node api/fwr.js"
+        "start": "node api/fwr.js"
     },
     "dependencies": {
-      "cors": "^2.8.5",
-      "dotenv": "^16.3.1",
-      "express": "^4.18.2",
-      "openai": "^4.23.0"
+        "cors": "^2.8.5",
+        "dotenv": "^16.3.1",
+        "express": "^4.21.2",
+        "openai": "^4.23.0"
     }
-  }
-  
+}
